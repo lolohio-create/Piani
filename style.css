@@ -72,3 +72,8 @@ body {
   font-family: monospace;
   z-index: 1000;
 }
+
+.bioey-image img {
+  width: 400px; /* or whatever size you want */
+  margin-top: 20px;
+}
